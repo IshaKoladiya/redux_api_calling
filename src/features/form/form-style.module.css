@@ -1,0 +1,58 @@
+.formContainer {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+  }
+  
+  .formTitle {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .formLabel {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .formInput {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .radioGroup {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radioLabel {
+    margin-right: 10px;
+    margin-bottom: 0;
+  }
+  
+  .formSubmit {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007BFF;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .formSubmit:hover {
+    background-color: #0056b3;
+  }
+  
